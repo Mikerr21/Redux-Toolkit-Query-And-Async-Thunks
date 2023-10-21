@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Brooke Watsica Sr.",
+      "id": 6
+    },
+    {
+      "name": "Beatrice Kihn Sr.",
+      "id": 7
+    },
+    {
+      "name": "Dr. Devin Rosenbaum",
+      "id": 8
+    },
+    {
+      "name": "Alvin Grimes",
+      "id": 9
+    }
+  ],
+  "albums": [
+    {
+      "id":10,
+      "title":"Hiking Trip",
+      "userId": 1
+    }
+  ],
+  "photos": []
+}
