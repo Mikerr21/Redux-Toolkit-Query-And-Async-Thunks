@@ -1,3 +1,5 @@
+terminal commands to run our environment: npm start for node server and npm run start:sever to start our db.json file database.
+
 #We created a JSON-Server to manage our database.
 #First you have to know about Eager over fetching: At App Startup, the over-fetching occurs when a client retrieves more data than it actually needs.   
 What if the client has a bandwidth constrained connection: We should implement lazy fetching(Make a single request that asks for a minimum amount of data)
